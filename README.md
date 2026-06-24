@@ -1,9 +1,13 @@
-# 🛰️ Axis v11.0.0 (Galactic Edition — CLI)
+<div align="center">
+
+<a href="https://github.com/effjy/axis-cli/"><img src="titles/axis-cli-v1100-title.svg" height="52" alt="Axis (CLI) v11.0.0"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![C Standard: C11](https://img.shields.io/badge/C-C11-blue.svg)](#)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)](#)
 [![Security: Post-Quantum + AES](https://img.shields.io/badge/Security-Post--Quantum--Ready-teal.svg)](#)
+
+</div>
 
 ---
 
